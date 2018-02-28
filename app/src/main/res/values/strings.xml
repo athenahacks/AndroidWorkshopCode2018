@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SampleRecyclerViewApp</string>
+    <string name="add_cat">add cat</string>
+    <string name="title_activity_add_anew_cat">AddANewCatActivity</string>
+    <string name="pick_photo">Pick Photo</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="add_cat_contact">Add Cat</string>
+</resources>
